@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm John! I'm an apsring software engineer studing Computer Science and Technology, Arts, and Media at CU Boulder.
 
 <!--
 **JohnGriffin01/JohnGriffin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
