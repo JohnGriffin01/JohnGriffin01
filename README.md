@@ -1,4 +1,4 @@
-### Hi there, I'm John! I'm an aspiring Software Engineer. I will graduate in December of 2020 with a bachelor's degree in Computer Science and a minor in Technology, Arts, and Media.
+### Hi there, I'm John! I'm an aspiring Software Engineer. I will graduate in December of 2020 with a bachelor's degree in Computer Science and a minor in Creative Technology & Design.
 
 <!--
 **JohnGriffin01/JohnGriffin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
