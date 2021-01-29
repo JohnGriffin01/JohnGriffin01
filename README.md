@@ -1,5 +1,6 @@
 ### Hi there, I'm John! I'm a recent graduate from the University of Colorado Boulder with a Bachelor of Arts in Computer Science and a Creative Technology & Design Minor.
 
+### Also checkout my online portfolio at johnmgriffin.com
 <!--
 **JohnGriffin01/JohnGriffin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
