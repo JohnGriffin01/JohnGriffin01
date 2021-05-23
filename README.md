@@ -1,4 +1,4 @@
-### Hi there, I'm John! I'm a recent graduate from the University of Colorado Boulder with a Bachelor of Arts in Computer Science and a Creative Technology & Design Minor.
+### Hi there, I'm John! I'm a recent graduate from the University of Colorado Boulder with a Bachelor of Arts in Computer Science and a Minor in Creative Technology & Design.
 
 ### Also checkout my online portfolio at johnmgriffin.com
 <!--
