@@ -1,4 +1,4 @@
-### Hi there, I'm John! I'm a recent graduate from the University of Colorado Boulder with a Bachelor of Arts in Computer Science and a Minor in Creative Technology & Design.
+### Hi there, I'm John! I graduated in December of 2020 with a bachelor's degree in Computer Science and a minor in Creative Technology & Design. I'm a Software Engineer currently working remotely from Colorado.
 
 ### Also checkout my online portfolio at johnmgriffin.com
 <!--
