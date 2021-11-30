@@ -1,6 +1,5 @@
 ### Hi there, I'm John! I graduated in December of 2020 with a bachelor's degree in Computer Science and a minor in Creative Technology & Design. I'm a Software Engineer currently working remotely from Colorado.
 
-### Also checkout my online portfolio at johnmgriffin.com
 <!--
 **JohnGriffin01/JohnGriffin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
